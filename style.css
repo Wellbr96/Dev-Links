@@ -91,7 +91,7 @@ body * {
 
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
-  transition: outline .2s
+  transition: outline .3s
 }
 
 .light #switch button {
